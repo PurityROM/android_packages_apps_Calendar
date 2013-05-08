@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2011 The Android Open Source Project
+<!-- Copyright (C) 2013 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -13,8 +13,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- DO NOT TRANSLATE the domain to use for auto-completing email addresses-->
-    <string name="google_email_domain" translatable="false">googlemail.com</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Snoozeduur vragen</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Duur vragen bij het snoozen van een herinnering</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Altijd de standaardduur gebruiken</string>
+    <string name="snooze_delay_dialog_title">Snoozeduur instellen</string>
+    <string name="preferences_default_snooze_delay_title">Standaardsnoozeduur</string>
+    <string name="preferences_default_snooze_delay_dialog">Standaardsnoozeduur</string>
 </resources>
